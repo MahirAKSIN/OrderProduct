@@ -1,0 +1,17 @@
+C:\Users\inspi\OneDrive\Belgeler\GitHub\OrderProductApi\OrderProduct\OrderProduct\OrderProduct.BusinessLayer\bin\Debug\net6.0\OrderProduct.BusinessLayer.deps.json
+C:\Users\inspi\OneDrive\Belgeler\GitHub\OrderProductApi\OrderProduct\OrderProduct\OrderProduct.BusinessLayer\bin\Debug\net6.0\OrderProduct.BusinessLayer.dll
+C:\Users\inspi\OneDrive\Belgeler\GitHub\OrderProductApi\OrderProduct\OrderProduct\OrderProduct.BusinessLayer\bin\Debug\net6.0\OrderProduct.BusinessLayer.pdb
+C:\Users\inspi\OneDrive\Belgeler\GitHub\OrderProductApi\OrderProduct\OrderProduct\OrderProduct.BusinessLayer\obj\Debug\net6.0\OrderProduct.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\inspi\OneDrive\Belgeler\GitHub\OrderProductApi\OrderProduct\OrderProduct\OrderProduct.BusinessLayer\obj\Debug\net6.0\OrderProduct.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inspi\OneDrive\Belgeler\GitHub\OrderProductApi\OrderProduct\OrderProduct\OrderProduct.BusinessLayer\obj\Debug\net6.0\OrderProduct.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\inspi\OneDrive\Belgeler\GitHub\OrderProductApi\OrderProduct\OrderProduct\OrderProduct.BusinessLayer\obj\Debug\net6.0\OrderProduct.BusinessLayer.AssemblyInfo.cs
+C:\Users\inspi\OneDrive\Belgeler\GitHub\OrderProductApi\OrderProduct\OrderProduct\OrderProduct.BusinessLayer\obj\Debug\net6.0\OrderProduct.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\inspi\OneDrive\Belgeler\GitHub\OrderProductApi\OrderProduct\OrderProduct\OrderProduct.BusinessLayer\obj\Debug\net6.0\OrderProduct.BusinessLayer.dll
+C:\Users\inspi\OneDrive\Belgeler\GitHub\OrderProductApi\OrderProduct\OrderProduct\OrderProduct.BusinessLayer\obj\Debug\net6.0\refint\OrderProduct.BusinessLayer.dll
+C:\Users\inspi\OneDrive\Belgeler\GitHub\OrderProductApi\OrderProduct\OrderProduct\OrderProduct.BusinessLayer\obj\Debug\net6.0\OrderProduct.BusinessLayer.pdb
+C:\Users\inspi\OneDrive\Belgeler\GitHub\OrderProductApi\OrderProduct\OrderProduct\OrderProduct.BusinessLayer\obj\Debug\net6.0\ref\OrderProduct.BusinessLayer.dll
+C:\Users\inspi\OneDrive\Belgeler\GitHub\OrderProductApi\OrderProduct\OrderProduct\OrderProduct.BusinessLayer\bin\Debug\net6.0\OrderProduct.DataLayer.dll
+C:\Users\inspi\OneDrive\Belgeler\GitHub\OrderProductApi\OrderProduct\OrderProduct\OrderProduct.BusinessLayer\bin\Debug\net6.0\OrderProduct.EntityLayer.dll
+C:\Users\inspi\OneDrive\Belgeler\GitHub\OrderProductApi\OrderProduct\OrderProduct\OrderProduct.BusinessLayer\bin\Debug\net6.0\OrderProduct.DataLayer.pdb
+C:\Users\inspi\OneDrive\Belgeler\GitHub\OrderProductApi\OrderProduct\OrderProduct\OrderProduct.BusinessLayer\bin\Debug\net6.0\OrderProduct.EntityLayer.pdb
+C:\Users\inspi\OneDrive\Belgeler\GitHub\OrderProductApi\OrderProduct\OrderProduct\OrderProduct.BusinessLayer\obj\Debug\net6.0\OrderProduct.BusinessLayer.csproj.CopyComplete

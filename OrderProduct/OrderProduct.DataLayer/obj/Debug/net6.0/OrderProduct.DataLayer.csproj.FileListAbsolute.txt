@@ -1,0 +1,17 @@
+C:\Users\inspi\OneDrive\Belgeler\GitHub\OrderProductApi\OrderProduct\OrderProduct\OrderProduct.DataLayer\bin\Debug\net6.0\OrderProduct.DataLayer.deps.json
+C:\Users\inspi\OneDrive\Belgeler\GitHub\OrderProductApi\OrderProduct\OrderProduct\OrderProduct.DataLayer\bin\Debug\net6.0\OrderProduct.DataLayer.runtimeconfig.json
+C:\Users\inspi\OneDrive\Belgeler\GitHub\OrderProductApi\OrderProduct\OrderProduct\OrderProduct.DataLayer\bin\Debug\net6.0\OrderProduct.DataLayer.dll
+C:\Users\inspi\OneDrive\Belgeler\GitHub\OrderProductApi\OrderProduct\OrderProduct\OrderProduct.DataLayer\bin\Debug\net6.0\OrderProduct.DataLayer.pdb
+C:\Users\inspi\OneDrive\Belgeler\GitHub\OrderProductApi\OrderProduct\OrderProduct\OrderProduct.DataLayer\obj\Debug\net6.0\OrderProduct.DataLayer.csproj.AssemblyReference.cache
+C:\Users\inspi\OneDrive\Belgeler\GitHub\OrderProductApi\OrderProduct\OrderProduct\OrderProduct.DataLayer\obj\Debug\net6.0\OrderProduct.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inspi\OneDrive\Belgeler\GitHub\OrderProductApi\OrderProduct\OrderProduct\OrderProduct.DataLayer\obj\Debug\net6.0\OrderProduct.DataLayer.AssemblyInfoInputs.cache
+C:\Users\inspi\OneDrive\Belgeler\GitHub\OrderProductApi\OrderProduct\OrderProduct\OrderProduct.DataLayer\obj\Debug\net6.0\OrderProduct.DataLayer.AssemblyInfo.cs
+C:\Users\inspi\OneDrive\Belgeler\GitHub\OrderProductApi\OrderProduct\OrderProduct\OrderProduct.DataLayer\obj\Debug\net6.0\OrderProduct.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\inspi\OneDrive\Belgeler\GitHub\OrderProductApi\OrderProduct\OrderProduct\OrderProduct.DataLayer\obj\Debug\net6.0\OrderProduct.DataLayer.dll
+C:\Users\inspi\OneDrive\Belgeler\GitHub\OrderProductApi\OrderProduct\OrderProduct\OrderProduct.DataLayer\obj\Debug\net6.0\refint\OrderProduct.DataLayer.dll
+C:\Users\inspi\OneDrive\Belgeler\GitHub\OrderProductApi\OrderProduct\OrderProduct\OrderProduct.DataLayer\obj\Debug\net6.0\OrderProduct.DataLayer.pdb
+C:\Users\inspi\OneDrive\Belgeler\GitHub\OrderProductApi\OrderProduct\OrderProduct\OrderProduct.DataLayer\obj\Debug\net6.0\OrderProduct.DataLayer.genruntimeconfig.cache
+C:\Users\inspi\OneDrive\Belgeler\GitHub\OrderProductApi\OrderProduct\OrderProduct\OrderProduct.DataLayer\obj\Debug\net6.0\ref\OrderProduct.DataLayer.dll
+C:\Users\inspi\OneDrive\Belgeler\GitHub\OrderProductApi\OrderProduct\OrderProduct\OrderProduct.DataLayer\bin\Debug\net6.0\OrderProduct.EntityLayer.dll
+C:\Users\inspi\OneDrive\Belgeler\GitHub\OrderProductApi\OrderProduct\OrderProduct\OrderProduct.DataLayer\bin\Debug\net6.0\OrderProduct.EntityLayer.pdb
+C:\Users\inspi\OneDrive\Belgeler\GitHub\OrderProductApi\OrderProduct\OrderProduct\OrderProduct.DataLayer\obj\Debug\net6.0\OrderProduct.DataLayer.csproj.CopyComplete
