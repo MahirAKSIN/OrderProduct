@@ -11,6 +11,10 @@ namespace OrderProduct.DataLayer.Concrete.EntityFramework
 {
     public class EfCoreProductRepository:EfCoreGenericRepository<Product>,IProductRepository
     {
+        //EfCoreProductRepository class EfCoreGenericRepository tarafından imzası atılan methodları implement edildi
+        //Eğer Irepository ve GenericRepositoryde olmayan özel methodlar varsa IProductRepository Interface yazıldığı için 
+        //onuda implement ettik
+
         public async Task<List<Product>> GetAllWithDetails()
         {
             using (var c = new OrderProductContext.OrderProductContextDb())

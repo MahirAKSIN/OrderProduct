@@ -9,6 +9,15 @@ namespace OrderProduct.BusinessLayer.Abstract
 {
     public interface ICreateOrderService
     {
+
+        //Sunum katmanından gelen bilgileri gerekli koşullara göre işleyerek veya denetleyerek
+        //veri katmanının sağladığı metotları kullanarak veritabanına gönderen aynı şekilde veritabanından da bilgileri alarak gerekli
+        //süreçlerden geçirip presentation katmanına gönderen katman.
+
+        //---------------------
+        //Mahir AKSIN-22072022
+        //---------------------
+
         Task CreateAsync(CreateOrder entity);
         Task<CreateOrder> GetById(int id);
 

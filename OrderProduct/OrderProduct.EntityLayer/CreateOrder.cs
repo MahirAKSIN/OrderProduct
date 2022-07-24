@@ -9,6 +9,11 @@ namespace OrderProduct.EntityLayer
 {
     public class CreateOrder
     {
+
+
+        //CreateOrder için bilgilerinin ve diğer entity classlarının admin olan ilişkileri burada tutuyor.
+        //Encapsulation yapılmıştır
+
         [Key]
         public int Id { get; set; }
 

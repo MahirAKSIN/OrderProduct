@@ -10,5 +10,10 @@ namespace OrderProduct.DataLayer.Concrete.EntityFramework
 {
     public class EfCoreOrderRepository:EfCoreGenericRepository<Order>,IOrderRepository
     {
+        //EfCoreOrderRepository class EfCoreGenericRepository tarafından imzası atılan methodları implement edildi
+        //Eğer Irepository ve GenericRepositoryde olmayan özel methodlar varsa IOrderRepository Interface yazıldığı için 
+        //onuda implement ettik
+
     }
+
 }

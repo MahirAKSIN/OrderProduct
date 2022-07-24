@@ -7,6 +7,10 @@ using System.Threading.Tasks;
 
 namespace OrderProduct.EntityLayer
 {
+
+    //Order için bilgilerinin ve diğer entity classlarının admin olan ilişkileri burada tutuyor.
+    //Encapsulation yapılmıştır
+
     public class Order
     {
         [Key]

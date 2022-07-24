@@ -9,6 +9,16 @@ using System.Threading.Tasks;
 
 namespace OrderProduct.BusinessLayer.Concrete
 {
+
+
+    //Service Interfacelerined imzasız methodların imzası atıldı   
+
+
+
+    //---------------------
+    //Mahir AKSIN-22072022
+    //---------------------
+
     public class ProductManager : IProductService
     {
         IProductRepository _productRepository;

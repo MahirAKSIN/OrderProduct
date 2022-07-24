@@ -7,12 +7,15 @@ using System.Threading.Tasks;
 
 namespace OrderProduct.EntityLayer
 {
+
+    //Category için bilgilerinin ve diğer entity classlarının admin olan ilişkileri burada tutuyor.
+    //Encapsulation yapılmıştır
     public class Category
     {
         [Key]
         public int Id { get; set; }
         public string CategoryName { get; set; }
-        public List<Product> Products{ get; set; }
+        public List<Product> Products{ get; set; } //Diğer Tablolara ilişkiler 
 
 
 
